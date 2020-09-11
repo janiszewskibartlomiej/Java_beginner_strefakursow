@@ -21,12 +21,12 @@ public class PierwszyProgram { //public to modyfikator dostępu, nazwa klasy cam
 // kompilowanie poprzez "javac PierwszyProgram.java"
 // uruchamianie poprzez "java PierwszyProgram""
 // mozna uruchomic z argumentami jak mamy je przekazane w programie >> "java PierwszyProgram piort dziki"  >> to są 2 zmienne
-
+```
 2.
 
 ![hermetyzacja] (https://github.com/janiszewskibartlomiej/Java_from_scratch_in_code_me/blob/master/2020-09-11_07h33_37.png)
 
-
+```java
 3. 
 
 package strefakursu_java_beginner;   // info o pakiecie
