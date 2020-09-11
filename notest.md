@@ -22,4 +22,53 @@ public class PierwszyProgram { //public to modyfikator dostępu, nazwa klasy cam
 // uruchamianie poprzez "java PierwszyProgram""
 // mozna uruchomic z argumentami jak mamy je przekazane w programie >> "java PierwszyProgram piort dziki"  >> to są 2 zmienne
 
+
+2. 
+
+package strefakursu_java_beginner;   // info o pakiecie
+import mojPierwszyPakiet.MojaPierwszaKlasa;   //import
+
+public class PrzykladowaKlasa {
+	private MojaPierwszaKlasa mojaPierwszaKlasa;  //importowana klasa   << to sa pola
+	private int x;  // to sa pola
+	private int y; // to sa pola
+	
+	public PrzykladowaKlasa() {
+		
+	}  // to jest konstruktor
+
+	
+	public PrzykladowaKlasa(int x, int y) {   // to jest drugi konstruktor
+		this.x = x;
+		this.y = y;
+	} 
+	
+	private int dodajDwieLiczbyDoSiebie(int x, int y) {
+		
+		Test test = new Test();  //jezlei chcemy wywoalc klase w klasie to jest utworzenei powinno byc po wywolaniu
+		
+		return x + y;
+	}
+	
+	private class Test {
+		
+	}
+	
+	//getery i setery na koncu klasy
+	
+	public int getX( ) {
+		return x;
+	}
+	
+	public void setX(int x) {
+		this.x = x;
+	}
+	
+	
+	
+	
+}
+
+
+
 ```
