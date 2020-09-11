@@ -95,6 +95,7 @@ public class CzystyKod {
 
 
 5. Nazewnictwo
+ ```
  
  ![alt text](https://github.com/janiszewskibartlomiej/Java_from_scratch_in_code_me/blob/master/2020-09-11_09h09_26.png "nazewnictwo 1")
  ![alt text](https://github.com/janiszewskibartlomiej/Java_from_scratch_in_code_me/blob/master/2020-09-11_09h10_04.png "nazewnictwo 2")
@@ -102,5 +103,9 @@ public class CzystyKod {
  ![alt text](https://github.com/janiszewskibartlomiej/Java_from_scratch_in_code_me/blob/master/2020-09-11_09h10_21.png "nazewnictwo 4")
  ![alt text](https://github.com/janiszewskibartlomiej/Java_from_scratch_in_code_me/blob/master/2020-09-11_09h10_44.png "nazewnictwo 5")
  ![alt text[(https://github.com/janiszewskibartlomiej/Java_from_scratch_in_code_me/blob/master/2020-09-11_09h10_53.png "nazewnictwo 6")
+
+```java
+
+
 
 ```
