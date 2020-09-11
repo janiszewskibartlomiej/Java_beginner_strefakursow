@@ -105,7 +105,63 @@ public class CzystyKod {
  ![alt text](https://github.com/janiszewskibartlomiej/Java_from_scratch_in_code_me/blob/master/2020-09-11_09h10_53.png "nazewnictwo 6")
  
 ```java
+6. komentarze
 
+// jednowierszowy
 
+/*
+komentarz wielowierszowy
+*/
+
+/**
+* to jest komentarz dokumentujacy  - sluzy do dokumumentacji - tworzenia
+*/
+
+uzywanie komentraza dokumentujacego przed np metoda widac od razu np @param.
+
+package orm.dao;
+
+public class Komentarze {
+
+    int x;
+    int y;
+
+    /**
+     * To jest konstruktor klasy Komentarze
+     * @param x
+     * @param y
+     */
+    public Komentarze(int x, int y) {
+        this.x = x;
+        this.y = y;
+    }
+
+    /**
+     * To jest metoda main
+     * @param args
+     */
+    public static void main(String[] args) {
+
+    }
+
+    /**
+     * To jest metoda mnozaca 2 wartosci przez siebie
+     * @param x Parametr nr 1
+     * @param y Parametr nr 2
+     * @return iloczyn x i y
+     */
+    private int pomnoz(int x, int y) {
+        return x * y;
+    }
+}
+
+// tworzenie dokumentacji z cmd  >> przechodzimy do katalogu w kotrm jest ten plik
+//"javadoc -d nazwaNowegoKataloguWKtorymBedzieDokumentacj -private Komentarze.java"
+
+/*
+* lub z pozycji IDE  Tools>>Generate JavaDoc ...
+* 
+* lokalizacja u mnie D:\GITHUB\Java_DB-Postgraduate_studies_on_WSB\src\main\java\orm\dao\Dokumentacja
+* */
 
 ```
