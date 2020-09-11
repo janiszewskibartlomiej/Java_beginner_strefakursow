@@ -24,7 +24,7 @@ public class PierwszyProgram { //public to modyfikator dostępu, nazwa klasy cam
 ```
 2.
 
-![hermetyzacja] (https://github.com/janiszewskibartlomiej/Java_from_scratch_in_code_me/blob/master/2020-09-11_07h33_37.png)
+![alt text] (https://github.com/janiszewskibartlomiej/Java_from_scratch_in_code_me/blob/master/2020-09-11_07h33_37.png "hermetyzacja")
 
 ```java
 3. 
