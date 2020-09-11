@@ -96,10 +96,11 @@ public class CzystyKod {
 
 5. Nazewnictwo
  
- ![alt text]( "hermetyzacja")
- ![alt text]( "hermetyzacja")
- ![alt text]( "hermetyzacja")
- ![alt text]( "hermetyzacja")
- ![alt text]( "hermetyzacja")
+ ![alt text](https://github.com/janiszewskibartlomiej/Java_from_scratch_in_code_me/blob/master/2020-09-11_09h09_26.png "")
+ ![alt text](https://github.com/janiszewskibartlomiej/Java_from_scratch_in_code_me/blob/master/2020-09-11_09h10_04.png "")
+ ![alt text](https://github.com/janiszewskibartlomiej/Java_from_scratch_in_code_me/blob/master/2020-09-11_09h10_09.png "")
+ ![alt text](https://github.com/janiszewskibartlomiej/Java_from_scratch_in_code_me/blob/master/2020-09-11_09h10_21.png "")
+ ![alt text](https://github.com/janiszewskibartlomiej/Java_from_scratch_in_code_me/blob/master/2020-09-11_09h10_44.png "")
+ ![alt text[(https://github.com/janiszewskibartlomiej/Java_from_scratch_in_code_me/blob/master/2020-09-11_09h10_53.png "")
 
 ```
