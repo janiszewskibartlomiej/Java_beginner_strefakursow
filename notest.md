@@ -22,8 +22,12 @@ public class PierwszyProgram { //public to modyfikator dostępu, nazwa klasy cam
 // uruchamianie poprzez "java PierwszyProgram""
 // mozna uruchomic z argumentami jak mamy je przekazane w programie >> "java PierwszyProgram piort dziki"  >> to są 2 zmienne
 
+2.
 
-2. 
+!https://github.com/janiszewskibartlomiej/Java_from_scratch_in_code_me/blob/master/2020-09-11_07h33_37.png!
+
+
+3. 
 
 package strefakursu_java_beginner;   // info o pakiecie
 import mojPierwszyPakiet.MojaPierwszaKlasa;   //import
