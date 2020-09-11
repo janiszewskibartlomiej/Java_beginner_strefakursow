@@ -27,6 +27,7 @@ public class PierwszyProgram { //public to modyfikator dostępu, nazwa klasy cam
 ![alt text](https://github.com/janiszewskibartlomiej/Java_from_scratch_in_code_me/blob/master/2020-09-11_07h33_37.png "hermetyzacja")
 
 ```java
+
 3. 
 
 package strefakursu_java_beginner;   // info o pakiecie
@@ -69,8 +70,27 @@ public class PrzykladowaKlasa {
 	}
 	
 	
+}
+
+
+4. konwencja bloki kodu, wciecia, znaki biale, dlugosc linii
+
+public class CzystyKod {
 	
-	
+	public static void main(String[] args) {
+		
+		/*if () { 
+			
+		} else {  taka jest konwencja bloku if else
+			
+		}*/
+		
+		int x = 5;
+		int y = 6; //srednik okresla koniec lini
+		int z = x + y; //trzeba dawac odstepy pomiedzy zmiennymi
+		
+		System.out.println(z);  //trzeba dać odstęp przed z aby było to czytelniejsze. Trzeba rozdzielac logoczne czesci kodu odstepami  
+	}
 }
 
 
