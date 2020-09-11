@@ -94,5 +94,12 @@ public class CzystyKod {
 }
 
 
+5. Nazewnictwo
+ 
+ ![alt text]( "hermetyzacja")
+ ![alt text]( "hermetyzacja")
+ ![alt text]( "hermetyzacja")
+ ![alt text]( "hermetyzacja")
+ ![alt text]( "hermetyzacja")
 
 ```
