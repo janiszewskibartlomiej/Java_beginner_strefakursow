@@ -1,1 +1,1 @@
-# Java_from_scratch_in_code_me
+# Java beginner course in strefakursow
