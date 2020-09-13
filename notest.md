@@ -180,5 +180,13 @@ w przypadku obiektow Klasa y = new Klasa(10); nastepuje przypisanie miejsca w pa
 
 ```java
 
+char c1 = 0;
+char c3 = 'A', c4 = 65, c5 = 0041, c6 = '\u0041'; // u\0041 dobry do ujecia w jakisms stringu u\ = standard unicode
+    
+String string = "\u0041BCD";
+    
+boolean b1 = true, b2 = false; // rozmiwar 8 bitow (1 bajt) 
+
+
 
 ```
