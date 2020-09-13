@@ -187,6 +187,14 @@ String string = "\u0041BCD";
     
 boolean b1 = true, b2 = false; // rozmiwar 8 bitow (1 bajt) 
 
+7. zmienne
+
+Życie zmiennych sa okreslane przez bloki kodu, zmienna zadeklarowana np w petli for ni ebedzie mozliwa do wykozystania poza blokie kodu 
+[deklaracja zmiennej musi nastapic przed jej inicjalizacja]
+
+rzutowanie typów >> int i = 10;  short j = (short) i; --- przerobieni typu i z int na short
+
+trzeba pamietac ze  zmienno przecinkowe na int to znaczy liczba calkowita >>  double e = 3.999  int f = (int) e;
 
 
 ```
