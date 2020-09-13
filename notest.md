@@ -168,8 +168,8 @@ public class Komentarze {
 ```
 
 ![alt text](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-13_09h52_30.png "Typy")
- ![alt text]( "Typy")
- ![alt text]( "Typy")
+![alt text](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-13_09h57_15.png "Typy")
+![alt text]( "Typy")
 
 ```java
 
