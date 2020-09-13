@@ -164,4 +164,13 @@ public class Komentarze {
 * lokalizacja u mnie D:\GITHUB\Java_DB-Postgraduate_studies_on_WSB\src\main\java\orm\dao\Dokumentacja
 * */
 
+7. 	Typy danych
+
+![alt text]( "Typy")
+ ![alt text]( "Typy")
+ ![alt text]( "Typy")
+
+
+
+
 ```
