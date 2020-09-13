@@ -165,11 +165,18 @@ public class Komentarze {
 * */
 
 7. 	Typy danych
+
+typy proste = to nie są obiekty == int x = 10; to jest przypisanie liczby 10 bezpośrednio do zmiennej x 
+
+mozna oczywiscie Integer x  = Integer.valueof(10);  i wtedy mamy referencje do obeiktu 10
+
+w przypadku obiektow Klasa y = new Klasa(10); nastepuje przypisanie miejsca w pamieci do zmiennej y - referencja
 ```
 
+![alt text]( "Typy proste")
 ![alt text](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-13_09h52_30.png "Typy")
 ![alt text](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-13_09h57_15.png "Typy")
-![alt text]( "Typy")
+
 
 ```java
 
