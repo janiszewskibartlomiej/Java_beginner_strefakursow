@@ -24,7 +24,7 @@ public class PierwszyProgram { //public to modyfikator dostępu, nazwa klasy cam
 ```
 2.
 
-![alt text](https://github.com/janiszewskibartlomiej/Java_from_scratch_in_code_me/blob/master/2020-09-11_07h33_37.png "hermetyzacja")
+![alt text](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-11_07h33_37.png "hermetyzacja")
 
 ```java
 
@@ -97,12 +97,12 @@ public class CzystyKod {
 5. Nazewnictwo
  ```
  
- ![alt text](https://github.com/janiszewskibartlomiej/Java_from_scratch_in_code_me/blob/master/2020-09-11_09h09_26.png "nazewnictwo 1")
- ![alt text](https://github.com/janiszewskibartlomiej/Java_from_scratch_in_code_me/blob/master/2020-09-11_09h10_04.png "nazewnictwo 2")
- ![alt text](https://github.com/janiszewskibartlomiej/Java_from_scratch_in_code_me/blob/master/2020-09-11_09h10_09.png "nazewnictwo 3")
- ![alt text](https://github.com/janiszewskibartlomiej/Java_from_scratch_in_code_me/blob/master/2020-09-11_09h10_21.png "nazewnictwo 4")
- ![alt text](https://github.com/janiszewskibartlomiej/Java_from_scratch_in_code_me/blob/master/2020-09-11_09h10_44.png "nazewnictwo 5")
- ![alt text](https://github.com/janiszewskibartlomiej/Java_from_scratch_in_code_me/blob/master/2020-09-11_09h10_53.png "nazewnictwo 6")
+ ![alt text](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-11_09h09_26.png "nazewnictwo 1")
+ ![alt text](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-11_09h10_04.png "nazewnictwo 2")
+ ![alt text](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-11_09h10_09.png "nazewnictwo 3")
+ ![alt text](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-11_09h10_21.png "nazewnictwo 4")
+ ![alt text](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-11_09h10_44.png "nazewnictwo 5")
+ ![alt text](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-11_09h10_53.png "nazewnictwo 6")
  
 ```java
 6. komentarze
