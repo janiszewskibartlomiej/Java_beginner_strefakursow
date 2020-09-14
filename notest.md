@@ -196,5 +196,11 @@ rzutowanie typów >> int i = 10;  short j = (short) i; --- przerobieni typu i z 
 
 trzeba pamietac ze  zmienno przecinkowe na int to znaczy liczba calkowita >>  double e = 3.999  int f = (int) e;
 
+8 tablice
+
+int[] tablica = new int[10];  // tablica 0-9 - 10 elemoentow gdzie kazdy bedzie sie rowna 0
+    // to jest 1 przyklad inicjalizacji
+
+    int[] tablica2 = new int[] {0, 1, 2, 3, 4, 5, 6, 7, 8, 9};  // drugi sposob inicjalizacji tablicy
 
 ```
