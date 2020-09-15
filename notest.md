@@ -222,7 +222,8 @@ int[] tablica = new int[10];  // tablica 0-9 - 10 elemoentow gdzie kazdy bedzie 
 
 // mozna tez int [][][] macierz3d = new int[1][2][3]
 ```
-![alt text]( "Tablice")
+![alt text](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-15_15h36_02.png "Tablice")
+![alt text](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-15_15h35_30.png "Tablice")
 
 
 9. operatory
