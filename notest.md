@@ -228,5 +228,13 @@ int[] tablica = new int[10];  // tablica 0-9 - 10 elemoentow gdzie kazdy bedzie 
 
 9. operatory
 
+![alt text](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-15_15h50_45.png "Operatory")
+![alt text](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-15_15h52_18.png "Operatory")
+![alt text](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-15_15h53_48.png "Operatory")
+![alt text](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-15_15h54_10.png "Operatory")
+![alt text](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-15_15h54_34.png "Operatory")
+
+``java
+
 
 ```
