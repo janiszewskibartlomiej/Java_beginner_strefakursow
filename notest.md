@@ -202,5 +202,23 @@ int[] tablica = new int[10];  // tablica 0-9 - 10 elemoentow gdzie kazdy bedzie 
     // to jest 1 przyklad inicjalizacji
 
     int[] tablica2 = new int[] {0, 1, 2, 3, 4, 5, 6, 7, 8, 9};  // drugi sposob inicjalizacji tablicy
+    
+  tablice wielowymiarowe:
+  
+      int [][] macierz2d = new int[][] {
+            {1, 2, 3, 4},
+            {5, 6, 7, 8}
+    };
+    
+    int xx = macierz2d[1][2]; // 7
+    
+    int [][][] macierz3d = new int[][][] {
+            {{1,2}, {3, 4}},
+            {{5, 6}, {7, 8}}
+    };
+    
+    int yy = macierz3d[1][1][0]; //7
 
+
+// mozna tez int [][][] macierz3d = new int[1][2][3]
 ```
