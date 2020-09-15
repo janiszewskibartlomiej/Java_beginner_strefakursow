@@ -173,7 +173,7 @@ mozna oczywiscie Integer x  = Integer.valueof(10);  i wtedy mamy referencje do o
 w przypadku obiektow Klasa y = new Klasa(10); nastepuje przypisanie miejsca w pamieci do zmiennej y - referencja
 ```
 
-![alt text]( "Typy proste")
+
 ![alt text](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-13_09h52_30.png "Typy")
 ![alt text](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-13_09h57_15.png "Typy")
 
@@ -221,4 +221,11 @@ int[] tablica = new int[10];  // tablica 0-9 - 10 elemoentow gdzie kazdy bedzie 
 
 
 // mozna tez int [][][] macierz3d = new int[1][2][3]
+```
+![alt text]( "Tablice")
+
+
+9. operatory
+
+
 ```
