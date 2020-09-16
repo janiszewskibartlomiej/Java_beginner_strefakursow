@@ -236,7 +236,12 @@ int[] tablica = new int[10];  // tablica 0-9 - 10 elemoentow gdzie kazdy bedzie 
 
 
 
-Java przechowuje całkowitoliczbowe w systemie binarnym
+Java przechowuje całkowitoliczbowe wartosci w systemie binarnym
+
+![](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-16_13h04_12.png "system binarny")
+![](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-16_13h04_57.png "wyliczenie wartości binarnej")
+![](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-16_13h06_36.png "dopełnienie do 2")
+
 
 
 ``java
