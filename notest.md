@@ -234,6 +234,11 @@ int[] tablica = new int[10];  // tablica 0-9 - 10 elemoentow gdzie kazdy bedzie 
 ![alt text](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-15_15h54_10.png "Operatory")
 ![alt text](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-15_15h54_34.png "Operatory")
 
+
+
+Java przechowuje całkowitoliczbowe w systemie binarnym
+
+
 ``java
 
 
