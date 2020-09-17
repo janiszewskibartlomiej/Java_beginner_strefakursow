@@ -250,7 +250,7 @@ Java przechowuje całkowitoliczbowe wartosci w systemie binarnym
 ![](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-16_23h51_18.png)
 
 10. MAth 
-
+![](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-17_11h28_57.png)
 ps mozna podejrzec biblioteke standardowa w >> exr=ternal Libraries >> 1.8 >> rt.jar >> java >> lang >> class Math 
 ``java
 
