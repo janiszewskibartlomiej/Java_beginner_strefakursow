@@ -291,7 +291,7 @@ for each
 
 ![](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-20_20h18_25.png "break + etykiety")
 
-
+![](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-20_20h22_46.png "continue")
 
 ``java
 
