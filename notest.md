@@ -299,7 +299,7 @@ for each
 
 17. instanceof >> sprawdzanie typu danych poprzez:
 
-
+![](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-20_20h37_12.png "instanceof")
 
 ``java
 
