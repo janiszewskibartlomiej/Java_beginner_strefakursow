@@ -304,7 +304,7 @@ for each
 18. słowa kluczowe:
 
 ![](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-20_20h42_34.png)
-![]()
+![](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-20_20h43_20.png)
 ![]()
 
 ``java
