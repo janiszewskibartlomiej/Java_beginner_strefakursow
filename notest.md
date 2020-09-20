@@ -297,6 +297,8 @@ for each
 
 ![](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-20_20h32_22.png "return")
 
+17. instanceof >> sprawdzanie typu danych poprzez:
+
 
 
 ``java
