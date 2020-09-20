@@ -266,7 +266,7 @@ NIE POWINNISMY ZAGNIERZDZAC KODU WIECEJ NIZ 3-4 BLOKI
 
 12. SWITCH
 
-
+![](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-20_09h59_12.png "SWITCH")
 
 
 
