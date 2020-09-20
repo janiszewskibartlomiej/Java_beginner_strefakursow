@@ -279,7 +279,7 @@ NIE POWINNISMY ZAGNIERZDZAC KODU WIECEJ NIZ 3-4 BLOKI
 14. for for each
 
 ![](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-20_12h24_36.png "for konstrukcja")
-![]("for przykłady")
+![](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-20_12h29_38.png "for przykłady")
 
 ``java
 
