@@ -276,7 +276,10 @@ NIE POWINNISMY ZAGNIERZDZAC KODU WIECEJ NIZ 3-4 BLOKI
 ![](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-20_12h11_50.png "Do While")
 
 
+14. for for each
 
+![](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-20_12h24_36.png "for konstrukcja")
+![]("for przykłady")
 
 ``java
 
