@@ -293,6 +293,12 @@ for each
 
 ![](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-20_20h22_46.png "continue")
 
+16. return
+
+![](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-20_20h32_22.png "return")
+
+
+
 ``java
 
 
