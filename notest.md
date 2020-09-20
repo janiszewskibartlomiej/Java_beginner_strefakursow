@@ -264,6 +264,8 @@ skrutrowy zapis dla prostych instrukcji warunkowych
 
 NIE POWINNISMY ZAGNIERZDZAC KODU WIECEJ NIZ 3-4 BLOKI
 
+12. SWITCH
+
 
 
 
