@@ -301,6 +301,12 @@ for each
 
 ![](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-20_20h37_12.png "instanceof")
 
+18. słowa kluczowe:
+
+![](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-20_20h42_34.png)
+![]()
+![]()
+
 ``java
 
 
