@@ -262,7 +262,7 @@ skrutrowy zapis dla prostych instrukcji warunkowych
 
 ![](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-20_09h45_35.png "IF SKRUTOWY")
 
-
+NIE POWINNISMY ZAGNIERZDZAC KODU WIECEJ NIZ 3-4 BLOKI
 
 
 
