@@ -251,11 +251,16 @@ Java przechowuje całkowitoliczbowe wartosci w systemie binarnym
 
 10. Math 
 ![](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-17_11h28_57.png)
+
 ps mozna podejrzec biblioteke standardowa w >> exr=ternal Libraries >> 1.8 >> rt.jar >> java >> lang >> class Math 
 
 11. IF
 
 ![](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-20_09h41_15.png "IF")
+
+skrutrowy zapis dla prostych instrukcji warunkowych
+
+![](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-20_09h45_35.png "IF SKRUTOWY")
 
 
 
