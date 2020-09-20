@@ -285,6 +285,13 @@ for each
 
 ![](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-20_12h29_38.png "for each przykłady")
 
+15. break continue + etykiety:
+
+![](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-20_20h14_35.png "break")
+
+
+
+
 ``java
 
 
