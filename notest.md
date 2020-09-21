@@ -321,7 +321,12 @@ for each
 
 21. przeciazanie konstruktorów i metod:
 
-
+![](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-21_13h53_13.png)
+![](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-21_13h54_39.png)
+![](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-21_13h55_54.png)
+![](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-21_13h56_26.png)
+![](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-21_13h58_23.png)
+![](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-21_13h59_10.png)
 
 
 
