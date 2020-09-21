@@ -319,6 +319,13 @@ for each
 ![](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-21_13h44_50.png)
 ![](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-21_13h46_22.png)
 
+21. przeciazanie konstruktorów i metod:
+
+
+
+
+
+
 ``java
 
 
