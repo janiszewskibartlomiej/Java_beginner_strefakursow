@@ -307,6 +307,10 @@ for each
 ![](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-20_20h43_20.png)
 ![](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-20_20h44_23.png)
 
+19. Wprowadzenie do klas:
+
+
+
 ``java
 
 
