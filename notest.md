@@ -349,6 +349,10 @@ for each
  b) do oznaczenia klasy aby nie mogla byc dziedziczona >> final punlic class SowoKluczowe {}
  c) do oznaczenia metody ktora nie bedzi emogla byc przyslonieta/nadpisana  >> final public void test() {}
 
+![](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-22_09h47_18.png)
+
+
+
 ``java
 
 
