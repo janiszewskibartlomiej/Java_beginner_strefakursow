@@ -336,6 +336,10 @@ for each
 ![](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-22_09h20_43.png)
 ![](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-22_09h22_51.png)
 
+23. przyslanianie metod
+
+![]()
+
 ``java
 
 
