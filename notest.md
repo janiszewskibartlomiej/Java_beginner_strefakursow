@@ -343,7 +343,7 @@ for each
 ![](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-22_09h34_42.png)
 ![](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-22_09h36_58.png)
 
-
+24. słowo kluczowe final:
 
 
 
