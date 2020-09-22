@@ -380,6 +380,14 @@ W interfejsach wszytskie pola i metody sa domyslnie jako final static. Interfejs
 ![](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-22_13h54_12.png)
 ![](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-22_13h54_18.png)
 
+29. klasy abstrakcyjne  >> do zdefiniowaniaj akis ogulnych danych/metod ktore w innych klasach maja byc implementowanie na swoj sposob. 
+w tym wypadku nie trzeba nadpisywac metod. trzeba do klasy i metody dodac slowo kluczowe abstract.
+dla metody abstrakcyjnej nie mozna stworzyc obiektu. Służy definiowania ogulnych warunkow ktre sa potem w kazdej klasie indywidualnei doprecyzowane
+
+
+
+
+
 
 
 ``java
