@@ -372,6 +372,9 @@ Tworzymy je po to aby nie byly wykozystywane przez inne
 ![](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-22_11h35_46.png)
 ![](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-22_11h37_01.png)
 
+28. Interfejsy
+W interfejsach wszytskie pola i metody sa domyslnie jako final static. Interfejsy sa uzywane do definowania pul i metod ktore  mozemy wykozaystac w innych klasach.
+ wywolanie np public class Robot implements Interface {.....}  musimy zaimplementowac metode z interface
 
 
 
