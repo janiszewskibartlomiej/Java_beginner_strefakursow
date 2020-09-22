@@ -384,7 +384,9 @@ W interfejsach wszytskie pola i metody sa domyslnie jako final static. Interfejs
 w tym wypadku nie trzeba nadpisywac metod. trzeba do klasy i metody dodac slowo kluczowe abstract.
 dla metody abstrakcyjnej nie mozna stworzyc obiektu. Służy definiowania ogulnych warunkow ktre sa potem w kazdej klasie indywidualnei doprecyzowane
 
-
+![](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-22_14h03_47.png)
+![](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-22_14h08_05.png)
+![](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-22_14h08_25.png)
 
 
 
