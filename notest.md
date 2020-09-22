@@ -344,8 +344,10 @@ for each
 ![](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-22_09h36_58.png)
 
 24. słowo kluczowe final:
-
-
+ możemy wykozystac do:
+ a) tworzenia stalej >> final private int STALA = 10;
+ b) do oznaczenia klasy aby nie mogla byc dziedziczona >> final punlic class SowoKluczowe {}
+ c) do oznaczenia metody ktora nie bedzi emogla byc przyslonieta/nadpisana  >> final public void test() {}
 
 ``java
 
