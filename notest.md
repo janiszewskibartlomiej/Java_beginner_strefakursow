@@ -367,7 +367,11 @@ Tworzymy je po to aby nie byly wykozystywane przez inne
 ![](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-22_11h05_28.png)
 ![](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-22_11h05_56.png)
 
-27. Rekurencja 
+27. Rekurencja  czyli wywoływanie siebie wewnatrz metody, natomiast porzera mocno zasoby pamieci.
+
+
+
+
 
 
 
