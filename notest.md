@@ -391,7 +391,8 @@ dla metody abstrakcyjnej nie mozna stworzyc obiektu. Służy definiowania ogulny
 
 30. klasa anonimowa kozystamy gdzy chcemy nadpisac metode w innej klasie na obiekcie
 
-
+![](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-22_14h17_26.png)
+![](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-22_14h18_37.png)
 
 
 
