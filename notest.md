@@ -351,6 +351,13 @@ for each
 
 ![](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-22_09h47_18.png)
 
+25. Klasy wewnętrzne:
+
+Jeżeli główna klasa jest publick to klasa ktora jest wnie lub pod nią musi być private.
+
+Tworzymy je po to aby nie byly wykozystywane przez inne
+
+
 
 
 ``java
