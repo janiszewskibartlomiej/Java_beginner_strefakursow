@@ -357,7 +357,9 @@ Jeżeli główna klasa jest publick to klasa ktora jest wnie lub pod nią musi b
 
 Tworzymy je po to aby nie byly wykozystywane przez inne
 
-
+![](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-22_09h53_34.png)
+![](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-22_09h56_10.png)
+![](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-22_09h59_50.png)
 
 
 ``java
