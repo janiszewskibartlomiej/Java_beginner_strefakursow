@@ -394,6 +394,8 @@ dla metody abstrakcyjnej nie mozna stworzyc obiektu. Służy definiowania ogulny
 ![](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-22_14h17_26.png)
 ![](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-22_14h18_37.png)
 
+31. Lambda mozna uzwywac dla tych interfejsow ktore maja zdefiniowane tylko jedna metode wyglada jak funkcja strzalkowa w JS '->'
+
 
 
 
