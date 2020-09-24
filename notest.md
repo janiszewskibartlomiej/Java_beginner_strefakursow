@@ -403,6 +403,8 @@ dla metody abstrakcyjnej nie mozna stworzyc obiektu. Służy definiowania ogulny
 	
 ![](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-24_10h08_29.png)
 
+32. parametryzacja klas - klasa generyczna
+
 
 
 ``java
