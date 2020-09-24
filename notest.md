@@ -413,6 +413,10 @@ dla metody abstrakcyjnej nie mozna stworzyc obiektu. Służy definiowania ogulny
 ![](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-24_10h57_02.png)
 ![](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-24_10h58_12.png)
 
+34. Parametryzacja interfejsow
+
+
+
 ``java
 
 
