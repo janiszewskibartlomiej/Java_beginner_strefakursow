@@ -419,6 +419,8 @@ dla metody abstrakcyjnej nie mozna stworzyc obiektu. Służy definiowania ogulny
 ![](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-24_11h10_24.png)
 ![](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-24_11h10_36.png)
 
+35. Argument wieloznaczny (wildcard) i typy ograniczone
+
 ``java
 
 
