@@ -401,7 +401,7 @@ dla metody abstrakcyjnej nie mozna stworzyc obiektu. Służy definiowania ogulny
 
 31. typy sparametryzowane np ArrayList<String> nie moze byc to typ prosty !
 	
-	
+![](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-24_10h08_29.png)
 
 
 
