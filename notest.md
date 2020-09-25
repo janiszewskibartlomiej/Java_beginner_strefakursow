@@ -453,6 +453,8 @@ dla metody abstrakcyjnej nie mozna stworzyc obiektu. Służy definiowania ogulny
 39. Tworzenie własnych podklas wyjątków
 
 
+	![](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-25_23h10_08.png)
+	![](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-25_23h10_17.png)
 
 ``java
 
