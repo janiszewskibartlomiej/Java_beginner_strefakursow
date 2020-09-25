@@ -421,6 +421,10 @@ dla metody abstrakcyjnej nie mozna stworzyc obiektu. Służy definiowania ogulny
 
 35. Argument wieloznaczny (wildcard) i typy ograniczone
 
+36. wyjątki
+
+37. Konstrukcja "try-catch" i słowo kluczowe "finally"
+
 ``java
 
 
