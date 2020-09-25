@@ -421,9 +421,22 @@ dla metody abstrakcyjnej nie mozna stworzyc obiektu. Służy definiowania ogulny
 
 35. Argument wieloznaczny (wildcard) i typy ograniczone
 
+![](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-16_23h41_49.png)
+![](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-16_23h42_46.png)
+![](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-16_23h46_56.png)
+![](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-16_23h51_18.png)
+
+
 36. wyjątki
 
 37. Konstrukcja "try-catch" i słowo kluczowe "finally"
+
+
+![](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-25_16h33_49.png)
+![](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-25_16h36_43.png)
+![](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-25_16h38_45.png)
+
+
 
 ``java
 
