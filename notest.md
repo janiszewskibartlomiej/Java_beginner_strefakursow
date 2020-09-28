@@ -455,6 +455,9 @@ dla metody abstrakcyjnej nie mozna stworzyc obiektu. Służy definiowania ogulny
 
 	![](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-25_23h10_08.png)
 	![](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-25_23h10_17.png)
+	
+40 JavaFX >> GUI
+
 
 ``java
 
