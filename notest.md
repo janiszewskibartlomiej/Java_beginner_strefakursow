@@ -466,6 +466,8 @@ dla metody abstrakcyjnej nie mozna stworzyc obiektu. Służy definiowania ogulny
 42. definiowanie typów wyliczeniowych
 
 
+	![](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-30_20h21_54.png)
+	![](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-09-30_20h24_25.png)
 
 
 ``java
