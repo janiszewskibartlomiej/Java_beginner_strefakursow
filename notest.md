@@ -463,6 +463,11 @@ dla metody abstrakcyjnej nie mozna stworzyc obiektu. Służy definiowania ogulny
 
 41  SceneBuilder - ciekawe narzedzie do wyklikania gui
 
+42. definiowanie typów wyliczeniowych
+
+
+
+
 ``java
 
 
