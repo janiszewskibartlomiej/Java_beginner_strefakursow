@@ -493,7 +493,7 @@ dla metody abstrakcyjnej nie mozna stworzyc obiektu. Służy definiowania ogulny
 
 47. odczyt i zapis do/z pliku
 
-![](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-10-01_23h14_36.png(
+![](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-10-01_23h14_36.png)
 ![](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-10-01_23h14_52.png)
 
 
