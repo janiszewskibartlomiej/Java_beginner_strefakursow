@@ -472,6 +472,8 @@ dla metody abstrakcyjnej nie mozna stworzyc obiektu. Służy definiowania ogulny
 43 Framework Collections
 
 
+![](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-10-01_12h22_21.png)
+![](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-10-01_12h25_43.png)
 
 
 ``java
