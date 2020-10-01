@@ -487,7 +487,9 @@ dla metody abstrakcyjnej nie mozna stworzyc obiektu. Służy definiowania ogulny
 ![](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-10-01_22h58_03.png)
 ![](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-10-01_22h58_29.png)
 
+46 input
 
+![](https://github.com/janiszewskibartlomiej/Java_beginner_strefakursow/blob/master/2020-10-01_23h01_54.png)
 
 ``java
 
